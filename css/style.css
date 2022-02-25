@@ -1,0 +1,81 @@
+/*Header Section CSS Start Here*/
+
+header{
+	background-image: url("../images/bg.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+ul li a:hover{
+	background: green;
+}
+
+.text{
+	padding: 100px 0px;
+}
+
+
+.text a{
+	text-decoration: none;
+	padding: 10px 20px;
+	color: white;
+	border-radius: 5px;
+	
+}
+.text a:hover{
+	background: green;
+}
+
+/*Header Section CSS End Here*/
+
+/* service-text Section CSS Start Here */
+
+.service-text h2{
+	color: #bf0454;
+}
+.service-text p{
+	color: #4a0a13;
+}
+
+.service-icon img{
+	width: 200px;
+	background: blueviolet;
+}
+/* service-text Section CSS End Here */
+
+/* feature-text Section CSS Start Here */
+
+.feature-text h2{
+	color: #122c9c;
+}
+.feature-text p{
+	color: #4a0a13;
+}
+
+.feature-icon img{
+	width: 100px;
+}
+/* feature-text Section CSS End Here */
+
+/* text-client Section CSS Start Here */
+
+.text-client h1{
+	color: #f63656;
+}
+.text-client p{
+	color: #4a0a13;
+}
+
+
+.black-icon img{
+	width: 150px;
+	background: red;
+}
+/* text-client Section CSS End Here */
+
+/* Footer Section CSS Start Here */
+
+.footer{
+	background-color: #2f0e28;
+}
+
+/* Footer Section CSS End Here */
